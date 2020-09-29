@@ -25,7 +25,9 @@ Team member of [Chalmers Formula Student Driverless 2019](http://www.chalmersfor
 <div class="rcorners-small">C++</div> 
 <div class="rcorners-small">JavaScript</div> 
 <div class="rcorners-small">LiDAR</div> 
+<p></p>
 <div class="rcorners-small">CAN</div> 
+<div class="rcorners-small">Docker</div> 
 <div class="rcorners-small">Reinforcement learning</div> 
 <p></p>
 <div class="rcorners-small">Embedded Software programming</div> 
