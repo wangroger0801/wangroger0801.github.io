@@ -28,6 +28,3 @@ author:              'Naichen'
 #feed:
 #  path: rss-feed.xml
 # Apply this change to _config.yml file
-kramdown:
-  # parse markdown inside block-level HTML tag
-  parse_block_html: true

@@ -3,4 +3,8 @@ layout: page
 title: Contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+If you are interested in my stroy, or want to hire me, feel free to [mail me](mailto:wangroger0801@gmail.com) or talk with me via [Linkedin](http://www.linkedin.com/in/naichenwang/)!
+
+Or get to know more about my personal life from my [instrgram](https://www.instagram.com/Naichen_wang/).
+
+This website is powered by a minimalist Jekyll theme : Lagrange
