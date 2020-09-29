@@ -1,0 +1,9 @@
+---
+layout: home
+title: Home
+---
+
+<div>
+    {% capture intro %}{% include_relative menu/intro.md %}{% endcapture %}
+    {{ intro | markdownify }}
+</div>
