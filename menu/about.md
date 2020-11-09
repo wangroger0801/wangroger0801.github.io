@@ -26,7 +26,7 @@ I have intermediate skills in engineering and developing with the following scho
     <ul>
     <li> Self-Driving Vehicles</li>
     <li> Software Developing</li>
-    <li> Computer Vision and Matchine learning</li>
+    <li> Computer Vision and Machine Learning</li>
     </ul>
     <h3 id="heading-three-h3"> Education </h3>
     <ul class="ul-edu fa-ul">
